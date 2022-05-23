@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="CLEMENT_graph">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/CLEMENT_graph.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

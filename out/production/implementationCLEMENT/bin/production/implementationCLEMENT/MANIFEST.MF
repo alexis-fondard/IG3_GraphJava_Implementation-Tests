@@ -1,0 +1,2 @@
+Main-class: src.graph.TestGraphImpl
+Class-Path: CLEMENT_graph.jar

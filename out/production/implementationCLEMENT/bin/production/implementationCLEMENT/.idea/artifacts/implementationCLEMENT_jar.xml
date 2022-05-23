@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="implementationCLEMENT:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/implementationCLEMENT_jar</output-path>
+    <root id="archive" name="implementationCLEMENT.jar">
+      <element id="module-output" name="implementationCLEMENT" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/CLEMENT_graph.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
